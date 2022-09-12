@@ -31,7 +31,7 @@ def parse_arguments():
 
     parser.add_argument('--gpu_id', type=str, default='0', help="The used gpu index of your device.")
 
-    parser.add_argument("--data_path", default = 'MIA/datasets', type=str,
+    parser.add_argument("--data_path", default = 'datasets', type=str,
                         help="The input data dir. Should contain text, video and audio data for the task.")
 
     parser.add_argument("--train", action="store_true", help="Whether to train the model.")
@@ -56,8 +56,11 @@ def parse_arguments():
 
     parser.add_argument('--results_path', type=str, default='results', help="The path to save results.")
 
-    parser.add_argument("--output_path", default= 'MIA/outputs', type=str, 
+    parser.add_argument("--output_path", default= 'outputs', type=str, 
                         help="The output directory where all train data will be written.") 
+
+    parser.add_argument("--model_path", default='models', type=str, 
+                        help="The output directory where the model predictions and checkpoints will be written.") 
 
     parser.add_argument("--config_file_name", type=str, default='text_bert_tune(.py)', help = "The name of the config file.")
 

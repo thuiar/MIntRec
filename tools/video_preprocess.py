@@ -205,7 +205,7 @@ if __name__ == '__main__':
 
     args = parse_arguments()
     
-    args.use_TalkNet = False
+    args.use_TalkNet = True
     video_data = VideoFeature(args)
     video_data._get_feats(args)
     video_data._save_feats(args)

@@ -20,7 +20,7 @@ class DataManager:
 
         self.benchmarks = benchmarks[args.dataset]
 
-        self.data_path = os.path.join(args.data_path, args.dataset)
+        self.data_path = args.data_path
 
         if args.data_mode == 'multi-class':
             self.label_list = self.benchmarks["intent_labels"]
