@@ -1,0 +1,14 @@
+easydict==1.9
+librosa==0.9.1
+matplotlib==3.3.4
+mmcv==1.6.1
+mmdet==2.25.1
+moviepy==1.0.3
+pandas==1.1.5
+pillow==8.4.0
+scikit-learn==0.24.2
+scipy==1.5.4
+sklearn==0.0
+tqdm==4.63.1
+transformers==4.17.0
+urllib3==1.26.9
