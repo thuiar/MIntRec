@@ -16,7 +16,7 @@ do
         --video_feats_path 'video_feats.pkl' \
         --audio_feats_path 'audio_feats.pkl' \
         --text_backbone 'bert-base-uncased' \
-        --config_file_name 'text_bert_tune' \
-        --results_file_name 'text_bert_tune.csv'
+        --config_file_name 'text_bert' \
+        --results_file_name 'text_bert.csv'
     done
 done
