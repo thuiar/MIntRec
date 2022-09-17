@@ -12,11 +12,11 @@ do
         --data_mode 'binary-class' \
         --save_results \
         --seed $seed \
-        --gpu_id '1' \
+        --gpu_id '0' \
         --video_feats_path 'video_feats.pkl' \
         --audio_feats_path 'audio_feats.pkl' \
         --text_backbone 'bert-base-uncased' \
-        --config_file_name 'mult_bert_tune_bi' \
-        --results_file_name 'mult_bert_tune_bi.csv'
+        --config_file_name 'mult_bert_bi' \
+        --results_file_name 'mult_bert_bi.csv'
     done
 done

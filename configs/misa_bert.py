@@ -51,11 +51,11 @@ class Param():
             'reverse_grad_weight': 0.8,
             'hidden_size': 256,
             'dropout_rate': 0.1,
-            'diff_weight': 0.6,
-            'sim_weight': 0.6,
-            'recon_weight': 0.7,
-            'lr': 0.00002,
+            'diff_weight': 0.7,
+            'sim_weight': 0.7,
+            'recon_weight': 0.6,
+            'lr': 0.00003,
             'grad_clip': -1.0,
-            'gamma': 0.3,
+            'gamma': 0.5,
         }
         return hyper_parameters

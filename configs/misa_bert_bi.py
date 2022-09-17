@@ -50,12 +50,12 @@ class Param():
             'use_cmd_sim': False,
             'reverse_grad_weight': 0.8,
             'hidden_size': 256,
-            'dropout_rate': 0.5,
+            'dropout_rate': 0.0,
             'diff_weight': 0.6,
             'sim_weight': 0.6,
             'recon_weight': 0.7,
             'lr': 0.00002,
             'grad_clip': -1,
-            'gamma': 0.4,
+            'gamma': 0.3,
         }
         return hyper_parameters
