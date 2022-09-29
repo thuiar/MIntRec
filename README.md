@@ -137,4 +137,4 @@ If you want to use the dataset, codes and results in this repo, please **star th
 
 Some of the codes in this repo are adapted from the following repos, and we are greatly thankful to them: [MMSA](https://github.com/thuiar/MMSA), [TalkNet](https://github.com/TaoRuijie/TalkNet-ASD), [SyncNet](https://github.com/joonson/syncnet_python).
 
-If you have any questions, please open issues and illustrate your problems as detailed as possible. If you want to integrate your method into our repo, please feel free to  **pull request !** 
+If you have any questions, please open issues and illustrate your problems as detailed as possible. If you want to integrate your method into our repo, please contact zhang-hl20@mails.tsinghua.edu.cn and feel free to  **pull request !**
