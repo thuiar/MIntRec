@@ -31,7 +31,7 @@ def parse_arguments():
 
     parser.add_argument('--gpu_id', type=str, default='0', help="The used gpu index of your device.")
 
-    parser.add_argument("--data_path", default = 'MIA-datasets', type=str,
+    parser.add_argument("--data_path", default = 'datasets', type=str,
                         help="The input data dir. Should contain text, video and audio data for the task.")
 
     parser.add_argument("--train", action="store_true", help="Whether to train the model.")

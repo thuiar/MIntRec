@@ -97,7 +97,7 @@ Dataset Description:
 2. Install PyTorch (Cuda version 11.2)
 
    ```
-   conda install pytorch torchvision torchaudio cudatoolkit=11.0 -c pytorch -c conda-forge
+   conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
    ```
 3. Clone the MIntRec repository.
 
