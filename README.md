@@ -122,7 +122,7 @@ To do: We will provide more details of this framework in the Wiki document.
 
 If you want to use the dataset, codes and results in this repo, please **star this repo and cite the following paper**:
 
-* [MIntRec: A New Dataset for Multimodal Intent Recognition](https://arxiv.org/pdf/2209.04355.pdf)
+* [MIntRec: A New Dataset for Multimodal Intent Recognition](https://dl.acm.org/doi/10.1145/3503161.3547906)
 
 ```
 @inproceedings{10.1145/3503161.3547906,
