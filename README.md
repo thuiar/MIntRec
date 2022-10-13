@@ -125,11 +125,14 @@ If you want to use the dataset, codes and results in this repo, please **star th
 * [MIntRec: A New Dataset for Multimodal Intent Recognition](https://arxiv.org/pdf/2209.04355.pdf)
 
 ```
-@article{zhang2022mintrec,
-  title={MIntRec: A New Dataset for Multimodal Intent Recognition},
-  author={Zhang, Hanlei and Xu, Hua and Wang, Xin and Zhou, Qianrui and Zhao, Shaojie and Teng, Jiayan},
-  journal={arXiv preprint arXiv:2209.04355},
-  year={2022}
+@inproceedings{10.1145/3503161.3547906,
+   author = {Zhang, Hanlei and Xu, Hua and Wang, Xin and Zhou, Qianrui and Zhao, Shaojie and Teng, Jiayan},
+   title = {MIntRec: A New Dataset for Multimodal Intent Recognition},
+   year = {2022},
+   doi = {10.1145/3503161.3547906},
+   booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+   pages = {1688–1697},
+   numpages = {10}
 }
 ```
 
