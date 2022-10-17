@@ -1,6 +1,6 @@
 # Multimodal Intent Recognition (MIntRec)
 
-This repo contains the official dataset and a unified framework for multimodal intent benchmarks of the research paper [MIntRec: A New Dataset for Multimodal Intent Recognition](https://arxiv.org/pdf/2209.04355.pdf "Link") (**Accepted by [ACM MM 2022](https://2022.acmmm.org/ "Link")**).
+This repo contains the official dataset and a unified framework for multimodal intent benchmarks of the research paper [MIntRec: A New Dataset for Multimodal Intent Recognition](https://dl.acm.org/doi/10.1145/3503161.3547906 "Link") (**Accepted by [ACM MM 2022](https://2022.acmmm.org/ "Link")**).
 
 ## 1. Introduction
 
