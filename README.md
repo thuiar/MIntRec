@@ -74,7 +74,7 @@ The text benchmark is built by fine-tuning BERT. The multimodal intent benchmark
 
 ### a. Download data
 
-You can download the full data from [Google Drive](https://drive.google.com/drive/folders/18iLqmUYDDOwIiiRbgwLpzw76BD62PK0p?usp=sharing) or [BaiduYun Disk](https://pan.baidu.com/s/1lAHdQ_RRaMw-DugtqRnEDg) (code：dbhc)
+You can download the full data from [Google Drive](https://drive.google.com/drive/folders/18iLqmUYDDOwIiiRbgwLpzw76BD62PK0p?usp=sharing) or [BaiduYun Disk](https://pan.baidu.com/s/1xWcrNL-lUiUSLklnozyQvQ) (code：95lo)
 
 Dataset Description:
 
