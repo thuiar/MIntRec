@@ -64,6 +64,8 @@ We propose an automatic process for annotating the visual information towards sp
 
 This process is simple yet effective to generate over 120K keyframes within about 7 hours on 3090 Ti. We construct a data set with over 12K manual-annotated keyframes for testing. **The automatic speaker annotation process achieves a low missing rate (2.3%) and a high proportion (90.9%) with high-quality  predicted bounding boxes (IoU>0.9).**
 
+**Note that we have released the full codes of the automatic speaker annotation process in the [TalkNet_ASD](./TalkNet_ASD) directory, enjoy it!**
+
 ## 3. Experiments
 
 The text features are extracted by a pre-trained BERT language model. The vision features are extracted with ROI features of the pre-trained Faster R-CNN with backbone ResNet-50. The audio features are extracted by wav2vec 2.0 on audio time series (obtained with librosa at 16,000Hz). The tools for extracting video and audio features can be found [here](./tools).
