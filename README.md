@@ -1,5 +1,7 @@
 # Multimodal Intent Recognition (MIntRec)
 
+🔥 🔥 🔥 The latest results of multimodal large language models on the MIntRec dataset have been released on our [MMLA](https://github.com/thuiar/MMLA) benchmark, with an accuracy score of over 84%. Enjoy!
+
 This repo contains the official dataset and a unified framework for multimodal intent benchmarks of the research paper [MIntRec: A New Dataset for Multimodal Intent Recognition](https://dl.acm.org/doi/10.1145/3503161.3547906 "Link") (**Accepted by [ACM MM 2022](https://2022.acmmm.org/ "Link")**).
 
 ## 1. Introduction
